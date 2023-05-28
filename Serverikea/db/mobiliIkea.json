@@ -1,0 +1,422 @@
+[
+  {
+    "nome": "Billy",
+    "prezzo": 59.99,
+    "annoInCommercio": 1979,
+    "areaUtilizzo": "soggiorno",
+    "id": 1
+  },
+  {
+    "nome": "Kallax",
+    "prezzo": 79.99,
+    "annoInCommercio": 2008,
+    "areaUtilizzo": "soggiorno",
+    "id": 2
+  },
+  {
+    "nome": "Malm",
+    "prezzo": 129.99,
+    "annoInCommercio": 2002,
+    "areaUtilizzo": "camera da letto",
+    "id": 3
+  },
+  {
+    "nome": "Lack",
+    "prezzo": 9.99,
+    "annoInCommercio": 1982,
+    "areaUtilizzo": "soggiorno",
+    "id": 4
+  },
+  {
+    "nome": "Expedit",
+    "prezzo": 99.99,
+    "annoInCommercio": 1999,
+    "areaUtilizzo": "soggiorno",
+    "id": 5
+  },
+  {
+    "nome": "Pax",
+    "prezzo": 199.99,
+    "annoInCommercio": 1997,
+    "areaUtilizzo": "camera da letto",
+    "id": 6
+  },
+  {
+    "nome": "Ektorp",
+    "prezzo": 399.99,
+    "annoInCommercio": 1996,
+    "areaUtilizzo": "soggiorno",
+    "id": 7
+  },
+  {
+    "nome": "Hemnes",
+    "prezzo": 149.99,
+    "annoInCommercio": 2005,
+    "areaUtilizzo": "soggiorno",
+    "id": 8
+  },
+  {
+    "nome": "Klubbo",
+    "prezzo": 49.99,
+    "annoInCommercio": 2003,
+    "areaUtilizzo": "soggiorno",
+    "id": 9
+  },
+  {
+    "nome": "Bjursta",
+    "prezzo": 199.99,
+    "annoInCommercio": 2006,
+    "areaUtilizzo": "soggiorno",
+    "id": 10
+  },
+  {
+    "nome": "Linnmon",
+    "prezzo": 29.99,
+    "annoInCommercio": 2012,
+    "areaUtilizzo": "ufficio",
+    "id": 11
+  },
+  {
+    "nome": "Kivik",
+    "prezzo": 699.99,
+    "annoInCommercio": 2009,
+    "areaUtilizzo": "soggiorno",
+    "id": 12
+  },
+  {
+    "nome": "Galant",
+    "prezzo": 199.99,
+    "annoInCommercio": 1998,
+    "areaUtilizzo": "ufficio",
+    "id": 13
+  },
+  {
+    "nome": "Lisabo",
+    "prezzo": 179.99,
+    "annoInCommercio": 2015,
+    "areaUtilizzo": "soggiorno",
+    "id": 14
+  },
+  {
+    "nome": "Hemnes Daybed",
+    "prezzo": 399.99,
+    "annoInCommercio": 2008,
+    "areaUtilizzo": "camera da letto",
+    "id": 15
+  },
+  {
+    "nome": "Ektorp Sofa",
+    "prezzo": 499.99,
+    "annoInCommercio": 1995,
+    "areaUtilizzo": "soggiorno",
+    "id": 16
+  },
+  {
+    "nome": "Micke",
+    "prezzo": 79.99,
+    "annoInCommercio": 2009,
+    "areaUtilizzo": "ufficio",
+    "id": 17
+  },
+  {
+    "nome": "Alex",
+    "prezzo": 119.99,
+    "annoInCommercio": 2009,
+    "areaUtilizzo": "ufficio",
+    "id": 18
+  },
+  {
+    "nome": "Brusali",
+    "prezzo": 149.99,
+    "annoInCommercio": 2013,
+    "areaUtilizzo": "camera da letto",
+    "id": 19
+  },
+  {
+    "nome": "Liatorp",
+    "prezzo": 249.99,
+    "annoInCommercio": 2007,
+    "areaUtilizzo": "soggiorno",
+    "id": 20
+  },
+  {
+    "nome": "Norden",
+    "prezzo": 199.99,
+    "annoInCommercio": 2009,
+    "areaUtilizzo": "cucina",
+    "id": 21
+  },
+  {
+    "nome": "Sundvik",
+    "prezzo": 79.99,
+    "annoInCommercio": 2010,
+    "areaUtilizzo": "camera da letto",
+    "id": 22
+  },
+  {
+    "nome": "Hemnes Bed Frame",
+    "prezzo": 299.99,
+    "annoInCommercio": 2006,
+    "areaUtilizzo": "camera da letto",
+    "id": 23
+  },
+  {
+    "nome": "Besta",
+    "prezzo": 249.99,
+    "annoInCommercio": 2005,
+    "areaUtilizzo": "soggiorno",
+    "id": 24
+  },
+  {
+    "nome": "Fredde",
+    "prezzo": 199.99,
+    "annoInCommercio": 2014,
+    "areaUtilizzo": "ufficio",
+    "id": 25
+  },
+  {
+    "nome": "Detolf",
+    "prezzo": 59.99,
+    "annoInCommercio": 2003,
+    "areaUtilizzo": "soggiorno",
+    "id": 26
+  },
+  {
+    "nome": "Hopen",
+    "prezzo": 199.99,
+    "annoInCommercio": 2005,
+    "areaUtilizzo": "camera da letto",
+    "id": 27
+  },
+  {
+    "nome": "Malm Desk",
+    "prezzo": 149.99,
+    "annoInCommercio": 2002,
+    "areaUtilizzo": "ufficio",
+    "id": 28
+  },
+  {
+    "nome": "Kullen",
+    "prezzo": 49.99,
+    "annoInCommercio": 2010,
+    "areaUtilizzo": "camera da letto",
+    "id": 29
+  },
+  {
+    "nome": "Brimnes",
+    "prezzo": 249.99,
+    "annoInCommercio": 2011,
+    "areaUtilizzo": "soggiorno",
+    "id": 30
+  },
+  {
+    "nome": "Vittsjö",
+    "prezzo": 49.99,
+    "annoInCommercio": 2013,
+    "areaUtilizzo": "soggiorno",
+    "id": 31
+  },
+  {
+    "nome": "Hemnes Bookcase",
+    "prezzo": 149.99,
+    "annoInCommercio": 2002,
+    "areaUtilizzo": "soggiorno",
+    "id": 32
+  },
+  {
+    "nome": "Nordli",
+    "prezzo": 199.99,
+    "annoInCommercio": 2012,
+    "areaUtilizzo": "camera da letto",
+    "id": 33
+  },
+  {
+    "nome": "Kungshamn",
+    "prezzo": 299.99,
+    "annoInCommercio": 2020,
+    "areaUtilizzo": "soggiorno",
+    "id": 34
+  },
+  {
+    "nome": "Gerton",
+    "prezzo": 99.99,
+    "annoInCommercio": 2010,
+    "areaUtilizzo": "ufficio",
+    "id": 35
+  },
+  {
+    "nome": "Nordmela",
+    "prezzo": 79.99,
+    "annoInCommercio": 2021,
+    "areaUtilizzo": "camera da letto",
+    "id": 36
+  },
+  {
+    "nome": "Tobias",
+    "prezzo": 79.99,
+    "annoInCommercio": 2007,
+    "areaUtilizzo": "ufficio",
+    "id": 37
+  },
+  {
+    "nome": "Melltorp",
+    "prezzo": 59.99,
+    "annoInCommercio": 2007,
+    "areaUtilizzo": "cucina",
+    "id": 38
+  },
+  {
+    "nome": "Havsta",
+    "prezzo": 249.99,
+    "annoInCommercio": 2018,
+    "areaUtilizzo": "soggiorno",
+    "id": 39
+  },
+  {
+    "nome": "Granas",
+    "prezzo": 199.99,
+    "annoInCommercio": 2005,
+    "areaUtilizzo": "soggiorno",
+    "id": 40
+  },
+  {
+    "nome": "Frosta",
+    "prezzo": 14.99,
+    "annoInCommercio": 2003,
+    "areaUtilizzo": "soggiorno",
+    "id": 41
+  },
+  {
+    "nome": "Poäng",
+    "prezzo": 99.99,
+    "annoInCommercio": 1977,
+    "areaUtilizzo": "soggiorno",
+    "id": 42
+  },
+  {
+    "nome": "Tornliden",
+    "prezzo": 79.99,
+    "annoInCommercio": 2016,
+    "areaUtilizzo": "ufficio",
+    "id": 43
+  },
+  {
+    "nome": "Idåsen",
+    "prezzo": 179.99,
+    "annoInCommercio": 2019,
+    "areaUtilizzo": "ufficio",
+    "id": 44
+  },
+  {
+    "nome": "Hemnes Wardrobe",
+    "prezzo": 299.99,
+    "annoInCommercio": 2005,
+    "areaUtilizzo": "camera da letto",
+    "id": 45
+  },
+  {
+    "nome": "Brimnes Dresser",
+    "prezzo": 149.99,
+    "annoInCommercio": 2011,
+    "areaUtilizzo": "camera da letto",
+    "id": 46
+  },
+  {
+    "nome": "Linnmon/Alex",
+    "prezzo": 139.99,
+    "annoInCommercio": 2011,
+    "areaUtilizzo": "ufficio",
+    "id": 47
+  },
+  {
+    "nome": "Ivar",
+    "prezzo": 69.99,
+    "annoInCommercio": 1968,
+    "areaUtilizzo": "soggiorno",
+    "id": 48
+  },
+  {
+    "nome": "Norraker",
+    "prezzo": 199.99,
+    "annoInCommercio": 2019,
+    "areaUtilizzo": "cucina",
+    "id": 49
+  },
+  {
+    "nome": "Lövbacken",
+    "prezzo": 39.99,
+    "annoInCommercio": 1956,
+    "areaUtilizzo": "soggiorno",
+    "id": 50
+  },
+  {
+    "nome": "Kallax Desk",
+    "prezzo": 79.99,
+    "annoInCommercio": 2008,
+    "areaUtilizzo": "ufficio",
+    "id": 51
+  },
+  {
+    "nome": "Norden Gateleg Table",
+    "prezzo": 199.99,
+    "annoInCommercio": 2009,
+    "areaUtilizzo": "cucina",
+    "id": 52
+  },
+  {
+    "nome": "Kivsta",
+    "prezzo": 49.99,
+    "annoInCommercio": 2014,
+    "areaUtilizzo": "soggiorno",
+    "id": 53
+  },
+  {
+    "nome": "Malm Dresser",
+    "prezzo": 99.99,
+    "annoInCommercio": 2002,
+    "areaUtilizzo": "camera da letto",
+    "id": 54
+  },
+  {
+    "nome": "Skarsta",
+    "prezzo": 249.99,
+    "annoInCommercio": 2014,
+    "areaUtilizzo": "ufficio",
+    "id": 55
+  },
+  {
+    "nome": "Gustav",
+    "prezzo": 149.99,
+    "annoInCommercio": 2009,
+    "areaUtilizzo": "ufficio",
+    "id": 56
+  },
+  {
+    "nome": "Songesand",
+    "prezzo": 199.99,
+    "annoInCommercio": 2016,
+    "areaUtilizzo": "camera da letto",
+    "id": 57
+  },
+  {
+    "nome": "Kvistbro",
+    "prezzo": 59.99,
+    "annoInCommercio": 2012,
+    "areaUtilizzo": "soggiorno",
+    "id": 58
+  },
+  {
+    "nome": "Micke Desk",
+    "prezzo": 79.99,
+    "annoInCommercio": 2013,
+    "areaUtilizzo": "ufficio",
+    "id": 59
+  },
+  {
+    "nome": "Ekedalen",
+    "prezzo": 149.99,
+    "annoInCommercio": 2017,
+    "areaUtilizzo": "soggiorno",
+    "id": 60
+  }
+]
