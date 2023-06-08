@@ -1,0 +1,52 @@
+[
+  {
+    "nome": "Il signore degli anelli",
+    "autore": "J.R.R. Tolkien",
+    "annoUscita": 1954
+  },
+  {
+    "nome": "1984",
+    "autore": "George Orwell",
+    "annoUscita": 1949
+  },
+  {
+    "nome": "Harry Potter e la pietra filosofale",
+    "autore": "J.K. Rowling",
+    "annoUscita": 1997
+  },
+  {
+    "nome": "Cronache del ghiaccio e del fuoco",
+    "autore": "George R.R. Martin",
+    "annoUscita": 1996
+  },
+  {
+    "nome": "Orgoglio e pregiudizio",
+    "autore": "Jane Austen",
+    "annoUscita": 1813
+  },
+  {
+    "nome": "Il piccolo principe",
+    "autore": "Antoine de Saint-Exupéry",
+    "annoUscita": 1943
+  },
+  {
+    "nome": "To Kill a Mockingbird",
+    "autore": "Harper Lee",
+    "annoUscita": 1960
+  },
+  {
+    "nome": "Moby Dick",
+    "autore": "Herman Melville",
+    "annoUscita": 1851
+  },
+  {
+    "nome": "Don Chisciotte",
+    "autore": "Miguel de Cervantes",
+    "annoUscita": 1605
+  },
+  {
+    "nome": "Anna Karenina",
+    "autore": "Leo Tolstoy",
+    "annoUscita": 1877
+  }
+]
